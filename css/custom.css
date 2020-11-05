@@ -1,0 +1,37 @@
+/** CUSTOM **/
+
+/** general **/
+.section {
+    float: left;
+    width: 100%;
+}
+
+.white_fonts a.read_more {
+	color: #fff ;
+}
+
+/**   **/
+.top-header {
+ background-image: none;
+ background-color: #fff;
+ position: relative;
+}
+
+button #sidebarCollapse {
+    background: transparent;
+
+  }
+
+.logo_section {
+    width: 33.33%;
+    text-align: center;
+}
+
+
+/** contact **/
+.dark_blue_layout {
+	height: 5px;
+    background: #530e81;
+}
+
+
