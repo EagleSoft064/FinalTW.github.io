@@ -9,6 +9,16 @@
     padding-top: 15px;
     padding-bottom: 10px;
 }
+	
+.heading_main {
+    font-size: 40px;
+    font-weight: 600;
+    float: left;
+    display: flex;
+    margin-bottom: 45px;
+    width: 100%;
+    justify-content: center;
+}
 
 .heading_main h2 strong.small {
     font-size: 22px;
@@ -18,6 +28,17 @@
     padding-right: 3px;
     padding-bottom: 5px;
 }
+
+.heading_small h4 {
+    color: #27282b;
+    font-size: 40px;
+    font-weight: 600;
+    border-bottom: solid #ddd 1px;
+    margin-bottom: 28px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}	
 
 .pogoSlider-slide {
     width: 100%;
@@ -38,7 +59,7 @@
 
 #sidebarCollapse img {
   padding-top: 0px;
-  width: 130px; }
+  width: 120px; }
 
 }
 
