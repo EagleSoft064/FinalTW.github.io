@@ -10,6 +10,10 @@
     padding-bottom: 10px;
 }
 
+.img-responsive {
+	padding: 0;
+	max-width: 60%;
+}
 
 .heading_main h2 strong.small {
     font-size: 40px;
@@ -64,6 +68,11 @@
   padding-left: 15px;
   padding-top: 15px;
   padding-bottom: 10px;
+}
+	
+.img-responsive {
+	padding: 0;
+	max-width: 60%;
 }
 
 .pogoSlider-slide {
@@ -149,6 +158,11 @@
     padding-left: 15px;
     padding-top: 15px;
     padding-bottom: 10px;
+}
+	 
+.img-responsive {
+	padding: 0;
+	max-width: 45%;
 }
 
 .pogoSlider-slide {
@@ -417,6 +431,11 @@ header #sidebarCollapse img {
     padding-top: 5px;
     padding-bottom: 10px;
  }
+	
+.img-responsive {
+	padding: 0;
+	max-width: 45%;
+}
 
  .heading_main h3 {
      margin-top: 5px;
@@ -480,6 +499,11 @@ header #sidebarCollapse img {
   padding-left: 6px;
   padding-top: 5px;
   padding-bottom: 5px;
+}
+	
+.img-responsive {
+	padding: 0;
+	max-width: 45%;
 }
 
 .heading_main h2 {
